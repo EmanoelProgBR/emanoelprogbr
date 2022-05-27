@@ -2,6 +2,7 @@
 
 - 🖥️ Atualmente trabalho com Front-End
 - 📚 Estudando Desenvolvimento Full-stack
+- 📚 Cursando Análise e Desenvolvimento de Sistema
 <div align="center">
   <a href="https://github.com/emanoelprogbr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emanoelprogbr&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&"/>
