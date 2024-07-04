@@ -13,7 +13,7 @@
   <img align="center" alt="Emanoel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Emanoel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Emanoel-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Emanoel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/php-original.svg">
+  <img align="center" alt="Emanoel-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/php-original.svg">
   <img align="right" alt="Emanoel-pic" height="170" style="border-radius:50px;" src="https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/c/c2/Zenitsu_colored_body_3.png/revision/latest?cb=20200121221954?width=676&height=676">
 </div>
   
