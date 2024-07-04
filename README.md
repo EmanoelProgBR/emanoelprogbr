@@ -1,4 +1,4 @@
-### Olá eu sou o Emanoel
+### Olá eu me chamo Emanoel
 
 - 🖥️ Atualmente trabalho com Front-End
 - 📚 Estudando Desenvolvimento Full-stack
