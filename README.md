@@ -2,7 +2,7 @@
 
 - 🖥️ Atualmente trabalho com Front-End
 - 📚 Cursando Análise e Desenvolvimento de Sistema
-- 📫 Contate-me no Email: danteopzz@hotmail.com
+- 📫 Contate-me no Email: emanoel.ionah@gmail.com
 <div align="center">
   <a href="https://github.com/emanoelprogbr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emanoelprogbr&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&"/>
