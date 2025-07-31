@@ -1,7 +1,7 @@
 ### Olá eu me chamo Emanoel
 
-- 🖥️ Atualmente trabalho com Front-End
-- 📚 Cursando Análise e Desenvolvimento de Sistema
+- 🖥️ Atualmente em busca de obter experiências
+- 📚 Formado em Análise e Desenvolvimento de Sistema
 - 📫 Contate-me no Email: emanoel.ionah@gmail.com
 <div align="center">
   <a href="https://github.com/emanoelprogbr">
